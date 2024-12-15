@@ -2,7 +2,7 @@
 ![AIMP OBS Widget Screenshot](https://raw.githubusercontent.com/Ponywka/AIMP-OBS-Widget/master/screenshot.png)
 
 ## 🇺🇸 English
-1. Install plugin for AIMP: http://aimpremote.blogspot.com/p/downloads.html.
+1. Install plugin for AIMP: http://aimpremote.blogspot.com/p/downloads.html. **Make sure you are using the 32 bit version of AIMP!**
 2. Download [ZIP archive](https://github.com/Ponywka/AIMP-OBS-Widget/archive/refs/heads/master.zip).
 3. Create a folder `C:\Program Files (x86)\AIMP\Plugins\Remote Control\Web\widget` and extract the archive here.
 4. Launch AIMP and in OBS Studio add the widget `http://localhost:3333/widget/index.html`.
@@ -10,7 +10,7 @@
 6. Set up width and height in properties. Recommended Resolution - 480x170 px.
 
 ## 🇺🇦 Українська
-1. Встановіть плагін для AIMP: http://aimpremote.blogspot.com/p/downloads.html.
+1. Встановіть плагін для AIMP: http://aimpremote.blogspot.com/p/downloads.html. **Переконайтеся, що використовується 32-бітна версія AIMP!**
 2. Завантажте [ZIP архів](https://github.com/Ponywka/AIMP-OBS-Widget/archive/refs/heads/master.zip).
 3. Створіть папку `C:\Program Files (x86)\AIMP\Plugins\Remote Control\Web\widget` та розпакуйте в неї вміст архіву.
 4. Запустіть AIMP і в OBS Studio додайте віджет `http://localhost:3333/widget/index.html`.
@@ -18,7 +18,7 @@
 6. У властивостях вкажіть висоту та ширину об'єкта. Рекомендований розмір – 480x170 px.
 
 ## 🇷🇺 Русский
-1. Установите плагин для AIMP: http://aimpremote.blogspot.com/p/downloads.html.
+1. Установите плагин для AIMP: http://aimpremote.blogspot.com/p/downloads.html. **Убедитесь, что используется 32 битная версия AIMP!**
 2. Скачайте [ZIP архив](https://github.com/Ponywka/AIMP-OBS-Widget/archive/refs/heads/master.zip).
 3. Создайте папку `C:\Program Files (x86)\AIMP\Plugins\Remote Control\Web\widget` и распакуйте в неё содержимое архива.
 4. Запустите AIMP и в OBS Studio добавьте виджет `http://localhost:3333/widget/index.html`.
